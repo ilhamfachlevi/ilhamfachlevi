@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi Everyone I'm Ilham 👋
+
+An Informatics Engineering student who is eager to learn and expand my potential skills in terms of academics and real-world experience. I am interested in data science, machine learning, deep learning, and artificial intelligence. In this GitHub, I love to share my various projects regarding my interests and my learning progress for my personal growth. If you're interested in getting to know me more, let's connect with me on [LinkedIn](https://www.linkedin.com/in/milhamfachlevi/). 
 
 <!--
 **ilhamfachlevi/ilhamfachlevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
